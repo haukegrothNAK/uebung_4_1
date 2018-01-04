@@ -21,7 +21,7 @@ public static void main(String[] args) {
 	GoldenerSchnitt(1,1,100);
 }
 public static void GoldenerSchnitt(double nenner, double zaehler, int x) {
-	
+	//kjhsdjkhjkhdasfkjh
 	for(int i =0; i < x; i++) {
 	double nennerNeu=zaehler+nenner;
 	double zaehlerNeu=nenner;
